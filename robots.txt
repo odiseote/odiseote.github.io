@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odiseote.github.io/DfC/sitemap_index.txt
+Sitemap: https://odiseote.github.io/JfQ/sitemap_index.txt
+Sitemap: https://odiseote.github.io/jLB/sitemap_index.txt
+Sitemap: https://odiseote.github.io/pVv/sitemap_index.txt
